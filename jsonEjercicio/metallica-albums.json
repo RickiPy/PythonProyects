@@ -1,0 +1,778 @@
+[
+  {
+    "year": "1983",
+    "name": "Kill 'Em All (Remastered)",
+    "artist": "Metallica",
+    "songs": [
+      {
+        "number": "1",
+        "name": "Hit The Lights",
+        "duration": "4:15"
+      },
+      {
+        "number": "2",
+        "name": "The Four Horsemen",
+        "duration": "7:12"
+      },
+      {
+        "number": "3",
+        "name": "Motorbreath",
+        "duration": "3:07"
+      },
+      {
+        "number": "4",
+        "name": "Jump In The Fire",
+        "duration": "4:41"
+      },
+      {
+        "number": "5",
+        "name": "(Anesthesia) Pulling Teeth",
+        "duration": "4:14"
+      },
+      {
+        "number": "6",
+        "name": "Whiplash",
+        "duration": "4:08"
+      },
+      {
+        "number": "7",
+        "name": "Phantom Lord",
+        "duration": "5:01"
+      },
+      {
+        "number": "8",
+        "name": "No Remorse",
+        "duration": "6:26"
+      },
+      {
+        "number": "9",
+        "name": "Seek & Destroy",
+        "duration": "6:54"
+      },
+      {
+        "number": "10",
+        "name": "Metal Militia",
+        "duration": "5:11"
+      }
+    ]
+  },
+  {
+    "year": "1984",
+    "name": "Ride The Lightning (Remastered)",
+    "artist": "Metallica",
+    "songs": [
+      {
+        "number": "1",
+        "name": "Fight Fire With Fire",
+        "duration": "4:44"
+      },
+      {
+        "number": "2",
+        "name": "Ride The Lightning",
+        "duration": "6:36"
+      },
+      {
+        "number": "3",
+        "name": "For Whom The Bell Tolls",
+        "duration": "5:09"
+      },
+      {
+        "number": "4",
+        "name": "Fade To Black",
+        "duration": "6:57"
+      },
+      {
+        "number": "5",
+        "name": "Trapped Under Ice",
+        "duration": "4:04"
+      },
+      {
+        "number": "6",
+        "name": "Escape",
+        "duration": "4:23"
+      },
+      {
+        "number": "7",
+        "name": "Creeping Death",
+        "duration": "6:35"
+      },
+      {
+        "number": "8",
+        "name": "The Call Of Ktulu",
+        "duration": "8:53"
+      }
+    ]
+  },
+  {
+    "artist": "Metallica",
+    "name": "Master Of Puppets",
+    "year": "1986",
+    "songs": [
+      {
+        "number": "1",
+        "name": "Battery",
+        "duration": "5:12"
+      },
+      {
+        "number": "2",
+        "name": "Master Of Puppets",
+        "duration": "8:35"
+      },
+      {
+        "number": "3",
+        "name": "The Thing That Should Not Be",
+        "duration": "6:36"
+      },
+      {
+        "number": "4",
+        "name": "Welcome Home (Sanitarium)",
+        "duration": "6:27"
+      },
+      {
+        "number": "5",
+        "name": "Disposable Heroes",
+        "duration": "8:16"
+      },
+      {
+        "number": "6",
+        "name": "Leper Messiah",
+        "duration": "5:39"
+      },
+      {
+        "number": "7",
+        "name": "Orion",
+        "duration": "8:27"
+      },
+      {
+        "number": "8",
+        "name": "Damage, Inc.",
+        "duration": "5:32"
+      }
+    ]
+  },
+  {
+    "artist": "Metallica",
+    "name": "...And Justice for all",
+    "year": "1988",
+    "songs": [
+      {
+        "number": "1",
+        "name": "Battery",
+        "duration": "5:12"
+      },
+      {
+        "number": "2",
+        "name": "Master Of Puppets",
+        "duration": "8:35"
+      },
+      {
+        "number": "3",
+        "name": "The Thing That Should Not Be",
+        "duration": "6:36"
+      },
+      {
+        "number": "4",
+        "name": "Welcome Home (Sanitarium)",
+        "duration": "6:27"
+      },
+      {
+        "number": "5",
+        "name": "Disposable Heroes",
+        "duration": "8:16"
+      },
+      {
+        "number": "6",
+        "name": "Leper Messiah",
+        "duration": "5:39"
+      },
+      {
+        "number": "7",
+        "name": "Orion",
+        "duration": "8:27"
+      },
+      {
+        "number": "8",
+        "name": "Damage, Inc.",
+        "duration": "5:32"
+      }
+    ]
+  },
+  {
+    "year": "1996",
+    "name": "Load",
+    "artist": "Metallica",
+    "songs": [
+      {
+        "number": "1",
+        "name": "Ain't My Bitch",
+        "duration": "5:04"
+      },
+      {
+        "number": "2",
+        "name": "2 X 4",
+        "duration": "5:28"
+      },
+      {
+        "number": "3",
+        "name": "The House That Jack Built",
+        "duration": "6:38"
+      },
+      {
+        "number": "4",
+        "name": "Until It Sleeps",
+        "duration": "4:27"
+      },
+      {
+        "number": "5",
+        "name": "King Nothing",
+        "duration": "5:29"
+      },
+      {
+        "number": "6",
+        "name": "Hero Of The Day",
+        "duration": "4:21"
+      },
+      {
+        "number": "7",
+        "name": "Bleeding Me",
+        "duration": "8:17"
+      },
+      {
+        "number": "8",
+        "name": "Cure",
+        "duration": "4:54"
+      },
+      {
+        "number": "9",
+        "name": "Poor Twisted Me",
+        "duration": "4:00"
+      },
+      {
+        "number": "10",
+        "name": "Wasting My Hate",
+        "duration": "3:57"
+      },
+      {
+        "number": "11",
+        "name": "Mama Said",
+        "duration": "5:19"
+      },
+      {
+        "number": "12",
+        "name": "Thorn Within",
+        "duration": "5:51"
+      },
+      {
+        "number": "13",
+        "name": "Ronnie",
+        "duration": "5:17"
+      },
+      {
+        "number": "14",
+        "name": "The Outlaw Torn",
+        "duration": "9:48"
+      }
+    ]
+  },
+  {
+    "year": "1997",
+    "name": "Reload",
+    "artist": "Metallica",
+    "songs": [
+      {
+        "number": "1",
+        "name": "Fuel",
+        "duration": "4:29"
+      },
+      {
+        "number": "2",
+        "name": "The Memory Remains",
+        "duration": "4:39"
+      },
+      {
+        "number": "3",
+        "name": "Devil's Dance",
+        "duration": "5:18"
+      },
+      {
+        "number": "4",
+        "name": "The Unforgiven II",
+        "duration": "6:36"
+      },
+      {
+        "number": "5",
+        "name": "Better Than You",
+        "duration": "5:21"
+      },
+      {
+        "number": "6",
+        "name": "Slither",
+        "duration": "5:13"
+      },
+      {
+        "number": "7",
+        "name": "Carpe Diem Baby",
+        "duration": "6:12"
+      },
+      {
+        "number": "8",
+        "name": "Bad Seed",
+        "duration": "4:05"
+      },
+      {
+        "number": "9",
+        "name": "Where The Wild Things Are",
+        "duration": "6:52"
+      },
+      {
+        "number": "10",
+        "name": "Prince Charming",
+        "duration": "6:05"
+      },
+      {
+        "number": "11",
+        "name": "Low Man's Lyric",
+        "duration": "7:36"
+      },
+      {
+        "number": "12",
+        "name": "Attitude",
+        "duration": "5:16"
+      },
+      {
+        "number": "13",
+        "name": "Fixxxer",
+        "duration": "8:14"
+      }
+    ]
+  },
+  {
+    "year": "1998",
+    "name": "Garage Inc.",
+    "artist": "Metallica",
+    "songs": [
+      {
+        "number": "1",
+        "name": "Free Speech For The Dumb",
+        "duration": "2:35"
+      },
+      {
+        "number": "2",
+        "name": "It's Electric",
+        "duration": "3:33"
+      },
+      {
+        "number": "3",
+        "name": "Sabbra Cadabra",
+        "duration": "6:20"
+      },
+      {
+        "number": "4",
+        "name": "Turn The Page",
+        "duration": "6:06"
+      },
+      {
+        "number": "5",
+        "name": "Die, Die My Darling",
+        "duration": "2:26"
+      },
+      {
+        "number": "6",
+        "name": "Loverman",
+        "duration": "7:52"
+      },
+      {
+        "number": "7",
+        "name": "Mercyful Fate",
+        "duration": "11:10"
+      },
+      {
+        "number": "8",
+        "name": "Astronomy",
+        "duration": "6:37"
+      },
+      {
+        "number": "9",
+        "name": "Whiskey In The Jar",
+        "duration": "5:04"
+      },
+      {
+        "number": "10",
+        "name": "Tuesday's Gone",
+        "duration": "9:03"
+      },
+      {
+        "number": "11",
+        "name": "The More I See",
+        "duration": "4:48"
+      },
+      {
+        "number": "1",
+        "name": "Helpless",
+        "duration": "6:36"
+      },
+      {
+        "number": "2",
+        "name": "The Small Hours",
+        "duration": "6:40"
+      },
+      {
+        "number": "3",
+        "name": "The Wait",
+        "duration": "4:52"
+      },
+      {
+        "number": "4",
+        "name": "Crash Course In Brain Surgery",
+        "duration": "3:08"
+      },
+      {
+        "number": "5",
+        "name": "Last Caress / Green Hell",
+        "duration": "3:30"
+      },
+      {
+        "number": "6",
+        "name": "Am I Evil?",
+        "duration": "7:50"
+      },
+      {
+        "number": "7",
+        "name": "Blitzkrieg",
+        "duration": "3:36"
+      },
+      {
+        "number": "8",
+        "name": "Breadfan",
+        "duration": "5:41"
+      },
+      {
+        "number": "9",
+        "name": "The Prince",
+        "duration": "4:24"
+      },
+      {
+        "number": "10",
+        "name": "Stone Cold Crazy",
+        "duration": "2:17"
+      },
+      {
+        "number": "11",
+        "name": "So What",
+        "duration": "3:08"
+      },
+      {
+        "number": "12",
+        "name": "Killing Time",
+        "duration": "3:03"
+      },
+      {
+        "number": "13",
+        "name": "Overkill - Live",
+        "duration": "4:05"
+      },
+      {
+        "number": "14",
+        "name": "Damage Case - Live",
+        "duration": "3:40"
+      },
+      {
+        "number": "15",
+        "name": "Stone Dead Forever - Live",
+        "duration": "4:51"
+      },
+      {
+        "number": "16",
+        "name": "Too Late Too Late - Live",
+        "duration": "3:12"
+      }
+    ]
+  },
+  {
+    "year": "1999",
+    "name": "S&M",
+    "artist": "Metallica",
+    "songs": [
+      {
+        "number": "8",
+        "name": "No Leaf Clover - Live",
+        "duration": "5:43"
+      },
+      {
+        "number": "4",
+        "name": "- Human - Live",
+        "duration": "4:19"
+      }
+    ]
+  },
+  {
+    "year": "2003",
+    "name": "St. Anger",
+    "artist": "Metallica",
+    "songs": [
+      {
+        "number": "1",
+        "name": "Frantic",
+        "duration": "5:50"
+      },
+      {
+        "number": "2",
+        "name": "St. Anger",
+        "duration": "7:21"
+      },
+      {
+        "number": "3",
+        "name": "Some Kind Of Monster",
+        "duration": "8:25"
+      },
+      {
+        "number": "4",
+        "name": "Dirty Window",
+        "duration": "5:24"
+      },
+      {
+        "number": "5",
+        "name": "Invisible Kid",
+        "duration": "8:30"
+      },
+      {
+        "number": "6",
+        "name": "My World",
+        "duration": "5:45"
+      },
+      {
+        "number": "7",
+        "name": "Shoot Me Again",
+        "duration": "7:10"
+      },
+      {
+        "number": "8",
+        "name": "Sweet Amber",
+        "duration": "5:27"
+      },
+      {
+        "number": "9",
+        "name": "The Unnamed Feeling",
+        "duration": "7:07"
+      },
+      {
+        "number": "10",
+        "name": "Purify",
+        "duration": "5:13"
+      },
+      {
+        "number": "11",
+        "name": "All Within My Hands",
+        "duration": "8:47"
+      }
+    ]
+  },
+  {
+    "year": "2008",
+    "name": "Death Magnetic",
+    "artist": "Metallica",
+    "songs": [
+      {
+        "number": "1",
+        "name": "That Was Just Your Life",
+        "duration": "7:08"
+      },
+      {
+        "number": "2",
+        "name": "The End Of The Line",
+        "duration": "7:52"
+      },
+      {
+        "number": "3",
+        "name": "Broken, Beat & Scarred",
+        "duration": "6:25"
+      },
+      {
+        "number": "4",
+        "name": "The Day That Never Comes",
+        "duration": "7:56"
+      },
+      {
+        "number": "5",
+        "name": "All Nightmare Long",
+        "duration": "7:57"
+      },
+      {
+        "number": "6",
+        "name": "Cyanide",
+        "duration": "6:39"
+      },
+      {
+        "number": "7",
+        "name": "The Unforgiven III",
+        "duration": "7:46"
+      },
+      {
+        "number": "8",
+        "name": "The Judas Kiss",
+        "duration": "8:00"
+      },
+      {
+        "number": "9",
+        "name": "Suicide & Redemption",
+        "duration": "9:57"
+      },
+      {
+        "number": "10",
+        "name": "My Apocalypse",
+        "duration": "5:01"
+      }
+    ]
+  },
+  {
+    "year": "2011",
+    "name": "Beyond Magnetic",
+    "artist": "Metallica",
+    "songs": [
+      {
+        "number": "1",
+        "name": "Hate Train",
+        "duration": "6:59"
+      },
+      {
+        "number": "2",
+        "name": "Just A Bullet Away",
+        "duration": "7:11"
+      },
+      {
+        "number": "3",
+        "name": "Hell And Back",
+        "duration": "6:57"
+      },
+      {
+        "number": "4",
+        "name": "Rebel Of Babylon",
+        "duration": "8:02"
+      }
+    ]
+  },
+  {
+    "year": "2011",
+    "name": "Lulu",
+    "artist": "Lou Reed",
+    "songs": [
+      {
+        "number": "1",
+        "name": "Brandenburg Gate",
+        "duration": "4:21"
+      },
+      {
+        "number": "2",
+        "name": "The View",
+        "duration": "5:20"
+      },
+      {
+        "number": "3",
+        "name": "Pumping Blood",
+        "duration": "7:24"
+      },
+      {
+        "number": "4",
+        "name": "Mistress Dread",
+        "duration": "6:52"
+      },
+      {
+        "number": "5",
+        "name": "Iced Honey",
+        "duration": "4:37"
+      },
+      {
+        "number": "6",
+        "name": "Cheat On Me",
+        "duration": "11:26"
+      },
+      {
+        "number": "7",
+        "name": "Frustration",
+        "duration": "8:33"
+      },
+      {
+        "number": "8",
+        "name": "Little Dog",
+        "duration": "8:01"
+      },
+      {
+        "number": "9",
+        "name": "Dragon",
+        "duration": "11:10"
+      },
+      {
+        "number": "10",
+        "name": "Junior Dad",
+        "duration": "19:28"
+      }
+    ]
+  },
+  {
+    "year": "2016",
+    "name": "Hardwired…To Self-Destruct",
+    "artist": "Metallica",
+    "songs": [
+      {
+        "number": "1",
+        "name": "Hardwired",
+        "duration": "3:09"
+      },
+      {
+        "number": "2",
+        "name": "Atlas, Rise!",
+        "duration": "6:28"
+      },
+      {
+        "number": "3",
+        "name": "Now That We’re Dead",
+        "duration": "6:59"
+      },
+      {
+        "number": "4",
+        "name": "Moth Into Flame",
+        "duration": "5:50"
+      },
+      {
+        "number": "5",
+        "name": "Dream No More",
+        "duration": "6:29"
+      },
+      {
+        "number": "6",
+        "name": "Halo On Fire",
+        "duration": "8:15"
+      },
+      {
+        "number": "1",
+        "name": "Confusion",
+        "duration": "6:41"
+      },
+      {
+        "number": "2",
+        "name": "ManUNkind",
+        "duration": "6:55"
+      },
+      {
+        "number": "3",
+        "name": "Here Comes Revenge",
+        "duration": "7:17"
+      },
+      {
+        "number": "4",
+        "name": "Am I Savage?",
+        "duration": "6:29"
+      },
+      {
+        "number": "5",
+        "name": "Murder One",
+        "duration": "5:45"
+      },
+      {
+        "number": "6",
+        "name": "Spit Out The Bone",
+        "duration": "7:09"
+      }
+    ]
+  }
+]
